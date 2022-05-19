@@ -20,6 +20,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="645cd7b0-0ee0-4ef3-a41d-efc3e82a7039" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/data_structure/src/algorithms/selection_sort.py" beforeDir="false" afterPath="$PROJECT_DIR$/data_structure/src/algorithms/selection_sort.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />

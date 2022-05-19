@@ -1,5 +1,5 @@
 """
-Created by MinSeo on 2021/03/27.
+Created by MinSeo on 2022/05/19.
 Copyright ⓒ 2021 MinSeo Shin. All rights reserved.
 """
 arr = [3, 2, 10, 4, 3, 20, 38]
